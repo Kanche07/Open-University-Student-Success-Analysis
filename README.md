@@ -8,19 +8,18 @@ The Open University needed to move beyond surface-level engagement metrics. Raw 
 
 📐 Metrics Designed
 Metric Definition:
-Academic Performance (AP): Normalised weighted average of assessment scores
-Learning Effort (LE): Normalised total VLE clicks across the module
-Academic Success Efficiency (ASE): AP ÷ LE — how effectively effort converts into results
+1. Academic Performance (AP): Normalised weighted average of assessment scores
+2. Learning Effort (LE): Normalised total VLE clicks across the module
+3. Academic Success Efficiency (ASE): AP ÷ LE — how effectively effort converts into results
 
 👥 Student Segments Identified
 Segment Profile :
-Efficient LearnersHigh ASE, low effort
-Cognitive Overload Risk: High effort, low efficiency — 50% of students
-Disengaged: Low effort, low performance
-Struggling Performers: High effort, still low scores
+1. Efficient LearnersHigh ASE, low effort
+2. Cognitive Overload Risk: High effort, low efficiency — 50% of students
+3. Disengaged: Low effort, low performance
+4. Struggling Performers: High effort, still low scores
 
 📊 Key Findings
-
 1. Students with low-to-medium clicks showed the highest ASE — quality beats quantity
 2. Early engagement alone does not prevent withdrawal — CCC module had 71.9% withdrawal despite high activity
 3. Hypothesis testing confirmed ASE differs significantly between successful and at-risk students (t = 54.01, p < 0.001)
